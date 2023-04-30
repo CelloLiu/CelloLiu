@@ -1,6 +1,6 @@
 ## Welcome 
 
-Hi, I'm Cello Liu, a Solution/Technical Architect and Software Engineer.  I am an active contractor working in Vancouver, BC., Canada.
+Hi, I'm Cello Liu, a Solution/Digital Architect and Software Engineer.  I am an active contractor working in Vancouver, BC., Canada.
 
 The most recent project I'm working on is a news aggregate and curation tool.  The solution ingest audio, video, paper, and internet content and curates it all through transcription, Natural Language Processing, and good old editors. The architecture is primarily a container based microservice platform with a Kafka backbone. A whole lot of moving parts working together to improve the subscriber experience.
 
@@ -53,8 +53,6 @@ The most recent project I'm working on is a news aggregate and curation tool.  T
 [![Visual Studio Code](https://img.shields.io/badge/VSCode-593D88?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://github.com/CelloLiu)
 [![Visual Studio](https://img.shields.io/badge/Visual%20Studio-593D88?style=for-the-badge&logo=visualstudio&logoColor=white)](https://github.com/CelloLiu)
 
-<br />
-<br />
 
 [website]: www.LxtSolutions.com
 [linkedin]: https://github.com/CelloLiu
