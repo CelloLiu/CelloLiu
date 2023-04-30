@@ -1,4 +1,4 @@
-## Welcome 
+## Welcome to be here! 
 
 Hi, I'm Cello Liu, a Solution/Digital Architect and Software Engineer.  I am an active contractor working in Vancouver, BC., Canada.
 
