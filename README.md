@@ -52,7 +52,3 @@ The most recent project I'm working on is a news aggregate and curation tool.  T
 [![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-593D88?style=for-the-badge&logo=AzureDevOps&logoColor=white)](https://github.com/CelloLiu)
 [![Visual Studio Code](https://img.shields.io/badge/VSCode-593D88?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://github.com/CelloLiu)
 [![Visual Studio](https://img.shields.io/badge/Visual%20Studio-593D88?style=for-the-badge&logo=visualstudio&logoColor=white)](https://github.com/CelloLiu)
-
-
-[website]: www.LxtSolutions.com
-[linkedin]: https://github.com/CelloLiu
